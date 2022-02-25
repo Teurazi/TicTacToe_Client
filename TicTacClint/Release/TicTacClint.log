@@ -1,0 +1,8 @@
+﻿  TicTacClint.cpp
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\TicTacClint\TicTacClint\TicTacClint.cpp(229,45): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  코드를 생성하고 있습니다.
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TicTacClint.vcxproj -> C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\TicTacClint\Release\TicTacClint.exe
